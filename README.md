@@ -19,16 +19,15 @@ I will not say much, please enjoy my data journey!
 
 # Projects
 
-- Excel
-- Python
-- SQL
-- Tableau
+[Telco Customer Churn Analysis & Prediction Model](https://github.com/jaejeon1/Customer-Churn-Prediction-Model)
+
+- End-to-end data analysis project identifying $3.7M revenue risk Building a production-ready churn prediction application
 
 # Education
 
 EU Business School | Barcelona | Bachelor of Artificial Intelligence for Business | 2024-2027
 
-JinKwang High School | South Korea | Science Track (Mathematics & Sciences) | 2017-2020
+Jinkwang High School | South Korea | Science Track (Mathematics & Sciences) | 2017-2020
 
 # Certificates
 
