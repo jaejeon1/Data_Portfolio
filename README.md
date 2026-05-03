@@ -15,7 +15,7 @@ Analysing data always have been my passion since I worked in sales. I believe da
 I am proficient in **Excel**, **Python**, **SQL**, and **Tableau**.
 Many of my practices includes processes **from Data cleaning to Machine Learning**.
 
-I will not say much, please enjoy my data journey!
+
 
 # Projects
 
