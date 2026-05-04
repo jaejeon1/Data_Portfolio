@@ -7,7 +7,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Hello! I'm Jae, I am a data analyst with **2 years in Sales** and **2 years in Operations Management** experience.
+Hi! I'm Jae, I am a data analyst with **2 years in Sales** and **2 years in Operations Management** experience.
 I hold Bachelor of **Artificial Intelligence for Business** degree in Barcelona, Spain,
 with high acumen in **Business Administration** and its relevant use of AI, and of course, we cannot skip AI/Data responsibility.
 Analysing data always have been my passion since I worked in sales. I believe data is everywhere but how you transform is important!
