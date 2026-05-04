@@ -21,7 +21,9 @@ Many of my practices includes processes **from Data cleaning to Machine Learning
 
 [Telco Customer Churn Analysis & Prediction Model](https://github.com/jaejeon1/Customer-Churn-Prediction-Model)
 
-- End-to-end data analysis project identifying $3.7M revenue risk Building a production-ready churn prediction application
+- Identified $3.7M total revenue at risk across 1,869 churned customers through end-to-end EDA
+- Deployed production-ready Streamlit app enabling non-technical teams to predict churn risk from CSV upload
+- **Expected impact:** Early intervention on high-risk segments could recover 15–20% of at-risk revenue
 
 # Education
 
