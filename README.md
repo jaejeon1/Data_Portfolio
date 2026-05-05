@@ -25,6 +25,10 @@ Many of my practices includes processes **from Data cleaning to Machine Learning
 - Deployed production-ready Streamlit app enabling non-technical teams to predict churn risk from CSV upload
 - **Expected impact:** Early intervention on high-risk segments could recover 15–20% of at-risk revenue
 
+[Customer Segment Intelligence Pipeline](https://github.com/jaejeon1/Customer-Segment-Intelligence-Pipeline)
+
+- In process
+
 # Education
 
 EU Business School | Barcelona | Bachelor of Artificial Intelligence for Business | 2024-2027
