@@ -41,6 +41,8 @@ Jinkwang High School | South Korea | Science Track (Mathematics & Sciences) | 20
 
 [Google Business Intelligence](https://coursera.org/share/ee07e826f0b4e24487391666aa66b98b) | Coursera | Nov 2025
 
+[Operations & Supply Chain, Retail & Client Experience](https://www.insidelvmh.com/certificate/a70a7442-3815-4b18-871d-42aad2c59a9a) | LVMH | Jul 2026
+
 # Languages
 
 Korean - Native
