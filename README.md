@@ -14,7 +14,7 @@ Analysing data always have been my passion since I worked in sales. I believe da
 
 The analytic tools I am proficient in are **Excel**, **Python**, **SQL**, and **Tableau**.
 
-Many of my practices are based on AI Strategy/Product consultancy & Data Analaysis-Data Science 
+Many of my practices are based on **AI Strategy/Product consultancy** & **Data Analaysis-Data Science** 
 
 
 
