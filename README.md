@@ -1,4 +1,4 @@
-# Data Analytics Projects - Jaewoo Jeon
+# AI Strategy/Product & Data Science Projects - Jaewoo Jeon
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -13,7 +13,7 @@ with high acumen in **Business Administration** and its relevant use of AI, and 
 Analysing data always have been my passion since I worked in sales. I believe data is everywhere but how you transform is important!
 
 I am proficient in **Excel**, **Python**, **SQL**, and **Tableau**.
-Many of my practices includes processes **from Data cleaning to Machine Learning**.
+Many of my practices are based on AI Strategy/Product consultancy & Data Analaysis-Data Science 
 
 
 
