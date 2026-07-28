@@ -25,7 +25,23 @@ Many of my practices includes processes **from Data cleaning to Machine Learning
 - Deployed production-ready Streamlit app enabling non-technical teams to predict churn risk from CSV upload
 - **Expected impact:** Early intervention on high-risk segments could recover 15–20% of at-risk revenue
 
+[EU Onboarding Quest: AI-Guided Student Onboarding App](https://github.com/jaejeon1/Student-Onbaording-App)
 
+- Designed a 12-quest AI onboarding app unifying 5 previously siloed departments around a single, GDPR-compliant student record
+- Built a Claude-grounded chat prototype (Barcelona public transport quest) replacing reactive, e-mail-only student support
+- **Expected impact:** reduced onboarding-week inquiry volume and improved Year-1 retention, tracked via referral rate as the primary KPI
+
+[LogiCore Iberia: AI-Powered Route Optimisation](https://github.com/jaejeon1/Logistics-Route-Optimiser)
+
+- Identified €89M in addressable cost (fuel, SLA penalties, overtime, emissions) driven by a single root cause: 22% route deviation
+- Scored 6 AI use cases and selected route optimisation as POC (14/15 weighted), then built a working Lovable prototype validated against 4 years of TMS and GPS telematics data
+- **Expected impact:** projected 25–28% cut in distance/driver hours and an ~19-point on-time rate improvement per vehicle (per prototype delta panel)
+
+[ChurnSense — Customer Churn Prediction with RAG](https://github.com/jaejeon1/ChurnSense-Customer-Churn-Prediction)
+
+- Identified €5.46M in annual revenue at risk from a 26% churn rate (~13,000 customers lost/year) through end-to-end EDA, cohort analysis, and SHAP-based driver analysis
+- Deployed a FastAPI + Streamlit app scoring churn risk in real time, paired with a RAG assistant (RetainIQ) that explains predictions using EDA findings, SHAP analysis, and a retention playbook
+- **Expected impact:** €1.28M in protected annual revenue from 3,055 customers saved (94% recall, 25% retention rate), with a payback period under 4 days on €13K deployment cost
 
 [Customer Segment Intelligence Pipeline](https://github.com/jaejeon1/Customer-Segment-Intelligence-Pipeline)
 
