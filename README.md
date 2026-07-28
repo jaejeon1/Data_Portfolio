@@ -12,7 +12,8 @@ I hold Bachelor of **Artificial Intelligence for Business** degree in Barcelona,
 with high acumen in **Business Administration** and its relevant use of AI, and of course, we cannot skip AI/Data responsibility.
 Analysing data always have been my passion since I worked in sales. I believe data is everywhere but how you transform is important!
 
-I am proficient in **Excel**, **Python**, **SQL**, and **Tableau**.
+The analytic tools I am proficient in are **Excel**, **Python**, **SQL**, and **Tableau**.
+
 Many of my practices are based on AI Strategy/Product consultancy & Data Analaysis-Data Science 
 
 
