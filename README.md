@@ -19,7 +19,7 @@ Many of my practices includes processes **from Data cleaning to Machine Learning
 
 # Projects
 
-[Telco Customer Churn Analysis & Prediction Model](https://github.com/jaejeon1/Customer-Churn-Prediction-Model)
+[Telco Customer Churn Analysis & Prediction App](https://github.com/jaejeon1/Customer-Churn-Prediction-Model)
 
 - Identified $3.7M total revenue at risk across 1,869 churned customers through end-to-end EDA
 - Deployed production-ready Streamlit app enabling non-technical teams to predict churn risk from CSV upload
@@ -37,7 +37,7 @@ Many of my practices includes processes **from Data cleaning to Machine Learning
 - Scored 6 AI use cases and selected route optimisation as POC (14/15 weighted), then built a working Lovable prototype validated against 4 years of TMS and GPS telematics data
 - **Expected impact:** projected 25–28% cut in distance/driver hours and an ~19-point on-time rate improvement per vehicle (per prototype delta panel)
 
-[ChurnSense — Customer Churn Prediction with RAG](https://github.com/jaejeon1/ChurnSense-Customer-Churn-Prediction)
+[ChurnSense: Customer Churn Prediction with RAG](https://github.com/jaejeon1/ChurnSense-Customer-Churn-Prediction)
 
 - Identified €5.46M in annual revenue at risk from a 26% churn rate (~13,000 customers lost/year) through end-to-end EDA, cohort analysis, and SHAP-based driver analysis
 - Deployed a FastAPI + Streamlit app scoring churn risk in real time, paired with a RAG assistant (RetainIQ) that explains predictions using EDA findings, SHAP analysis, and a retention playbook
