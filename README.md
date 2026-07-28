@@ -25,23 +25,27 @@ Many of my practices includes processes **from Data cleaning to Machine Learning
 - Deployed production-ready Streamlit app enabling non-technical teams to predict churn risk from CSV upload
 - **Expected impact:** Early intervention on high-risk segments could recover 15–20% of at-risk revenue
 
+
+
 [Customer Segment Intelligence Pipeline](https://github.com/jaejeon1/Customer-Segment-Intelligence-Pipeline)
 
 - In process
 
 # Education
 
-EU Business School | Barcelona | Bachelor of Artificial Intelligence for Business | 2024-2027
+University of Derby | Barcelona | Bachelor of Business Management | 2026-2027
+
+EU Business School | Barcelona | Bachelor of Artificial Intelligence for Business | 2024-2026
 
 Jinkwang High School | South Korea | Science Track (Mathematics & Sciences) | 2017-2020
 
 # Certificates
 
+[LVMH Operations & Supply Chain, Retail & Client Experience](https://www.insidelvmh.com/certificate/a70a7442-3815-4b18-871d-42aad2c59a9a) | LVMH | Jul 2026
+
 [Google Data Analytics](https://coursera.org/share/3dee6d63e00341a2221afff6f42bad73) | Coursera | Nov 2025
 
 [Google Business Intelligence](https://coursera.org/share/ee07e826f0b4e24487391666aa66b98b) | Coursera | Nov 2025
-
-[Operations & Supply Chain, Retail & Client Experience](https://www.insidelvmh.com/certificate/a70a7442-3815-4b18-871d-42aad2c59a9a) | LVMH | Jul 2026
 
 # Languages
 
